@@ -5,7 +5,7 @@ I made this repository to simplify the access to ![Dalai's weight](https://githu
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-%230078D6?style=flat-square&logo=windows&logoColor=white)
 
-## Table of contents
+### Table of contents
 
 <details>
   <summary>Table of Contents</summary>
@@ -48,7 +48,7 @@ git clone https://github.com/pereconteur/Simplified_download_of_the_Dalai_weight
 cd Simplified_download_of_the_Dalai_weights
 ```
 
-## Mac/OS
+### Mac/OS
 
 Once you have the folder, run the mac_file.sh file :
 
@@ -56,7 +56,7 @@ Once you have the folder, run the mac_file.sh file :
 ./mac_file.sh
 ```
 
-## Infos
+#### Infos
 
 As the models are currently fully loaded into memory, you will need adequate disk space to save them and sufficient RAM to load them. At the moment, memory and disk requirements are the same.
 
@@ -78,7 +78,7 @@ As the models are currently fully loaded into memory, you will need adequate dis
 
 [![twitch](https://img.shields.io/twitch/status/pereconteur?label=PereConteur&style=social)](https://www.twitch.tv/pereconteur)
 
-## About the repo
+#### About the repo
 
  - ![](https://img.shields.io/github/repo-size/pereconteur/Simplified_download_of_the_Dalai_weights)
  - ![](https://img.shields.io/github/last-commit/pereconteur/Simplified_download_of_the_Dalai_weights)
