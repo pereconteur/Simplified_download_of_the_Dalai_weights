@@ -64,7 +64,24 @@ Then install [chocolatey](https://chocolatey.org/install#individual) (which is a
 
 ```bash
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+#Check the version of chocolatey
+choco -v
 ```
+
+Once this is done, install [Git](https://git-scm.com/download/win), and open Git Bash. Enter the following commands in Git Bash !
+
+Go to the repo, and run the wind.sh file :  
+
+```bash
+cd to/the/path/Simplified_download_of_the_Dalai_weights
+
+#Run the file
+./wind.sh
+```
+
+### Linux 
+
 
 #### Infos
 
