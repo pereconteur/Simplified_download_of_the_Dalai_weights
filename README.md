@@ -52,8 +52,18 @@ cd Simplified_download_of_the_Dalai_weights
 
 Once you have the folder, run the mac_file.sh file :
 
-```
+```bash
 ./mac_file.sh
+```
+
+### Windows
+
+First, open the Windows PowerShell. 
+
+Then install [chocolatey](https://chocolatey.org/install#individual) (which is a packet manager) by inserting this command into the PowerShell : 
+
+```bash
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
 #### Infos
