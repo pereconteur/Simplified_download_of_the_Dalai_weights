@@ -11,18 +11,19 @@ I made this repository to simplify the access to ![Dalai's weight](https://githu
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#how-does-the-bash-script-work">Description</a>
+      <a href="#how-does-the-bash-script-work">How does the bash script work?</a>
     </li>
     <li>
-      <a href="#usage">Usage</a>
+      <a href="#first-">First 🚀</a>
       <ul>
-        <li><a href="#get-the-code">Get the Code</a></li>
-        <li><a href="#docker">Docker</a></li>
+        <li><a href="#macos">Mac/OS</a></li>
+        <li><a href="#">Windows</a></li>
+        <li><a href="#">Linux</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#coding-guidelines">Coding guidelines</a></li>
-    <li><a href="#docs">Docs</a></li>
+    <li><a href="#infos">Infos</a></li>
+    <li><a href="#follow-me">Follow ME</a></li>
+    <li><a href="#about-the-repo">About the repo</a></li>
   </ol>
 </details>
 
